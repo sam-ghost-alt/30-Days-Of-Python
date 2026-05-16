@@ -1,3 +1,4 @@
+
 # 🐍 30 Days Of Python
 
 |# Day | Topics                                                    |
